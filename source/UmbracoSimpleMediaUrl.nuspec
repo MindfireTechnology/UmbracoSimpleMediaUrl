@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Mindfire.UmbracoSimpleMediaUrl</id>
+    <version>1.0.0.0</version>
+    <title>Umbraco Simple Media URL</title>
+    <authors>Mindfire Technology, Nate Zaugg</authors>
+    <owners>Mindfire Technology</owners>
+    <licenseUrl>https://github.com/MindfireTechnology/UmbracoSimpleMediaUrl/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MindfireTechnology/UmbracoSimpleMediaUrl</projectUrl>
+    <iconUrl>https://avatars3.githubusercontent.com/u/13372702?v=3&amp;s=200</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Umbraco Simple Media URL is a simple package that changes the ugly /Media/1002.jpg file names into directories and files inside of media that reflect the path and name of the media file. E.g. /Media/Logos/MainLogo.jpg</description>
+    <releaseNotes>Initial Release. Please see Project Site for information on what fields to add to your media documents.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Umbraco Media Url</tags>
+  </metadata>
+</package>

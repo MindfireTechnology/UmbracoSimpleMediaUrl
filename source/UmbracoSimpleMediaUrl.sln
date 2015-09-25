@@ -1,31 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UmbracoSimpleMediaUrl", "UmbracoSimpleMediaUrl.csproj", "{2FC00AB5-1B3F-4A80-B528-583B259A2055}"
-EndProject
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "MindfireTech.com", "http://localhost:60175", "{C926C721-71B5-4CEC-981B-2B23C645F198}"
-	ProjectSection(WebsiteProperties) = preProject
-		UseIISExpress = "true"
-		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
-		ProjectReferences = "{2fc00ab5-1b3f-4a80-b528-583b259a2055}|UmbracoSimpleMediaUrl.dll;"
-		Debug.AspNetCompiler.VirtualPath = "/localhost_60175"
-		Debug.AspNetCompiler.PhysicalPath = "..\..\..\Workspace 1\FullSite\MindfireTech.com\"
-		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60175\"
-		Debug.AspNetCompiler.Updateable = "true"
-		Debug.AspNetCompiler.ForceOverwrite = "true"
-		Debug.AspNetCompiler.FixedNames = "false"
-		Debug.AspNetCompiler.Debug = "True"
-		Release.AspNetCompiler.VirtualPath = "/localhost_60175"
-		Release.AspNetCompiler.PhysicalPath = "..\..\..\Workspace 1\FullSite\MindfireTech.com\"
-		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_60175\"
-		Release.AspNetCompiler.Updateable = "true"
-		Release.AspNetCompiler.ForceOverwrite = "true"
-		Release.AspNetCompiler.FixedNames = "false"
-		Release.AspNetCompiler.Debug = "False"
-		SlnRelativePath = "..\..\..\Workspace 1\FullSite\MindfireTech.com\"
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -37,9 +15,6 @@ Global
 		{2FC00AB5-1B3F-4A80-B528-583B259A2055}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2FC00AB5-1B3F-4A80-B528-583B259A2055}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2FC00AB5-1B3F-4A80-B528-583B259A2055}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C926C721-71B5-4CEC-981B-2B23C645F198}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C926C721-71B5-4CEC-981B-2B23C645F198}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C926C721-71B5-4CEC-981B-2B23C645F198}.Release|Any CPU.ActiveCfg = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
